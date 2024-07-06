@@ -1,6 +1,6 @@
 # Hi there, I'm Muzammil Peer 👋
 
-![Profile views](https://gpvc.arturio.dev/muzammilpeer)
+![Profile views](https://avatars.githubusercontent.com/u/859865?v=4)
 
 ## 🚀 About Me
 
@@ -10,9 +10,6 @@ Highly passionate and detail-oriented Mobile application developer with over a d
 
 **Mobile Application Development:**
 Flutter, SwiftUI, UIKit, Storyboard, iOS Development, Android Development
-
-**Programming Languages:**
-Dart, Swift Programming Language, Objective-C, Python, Java, C++, JavaScript
 
 **API Integration:**
 REST API’s, GraphQL API’s, Soap API’s, JSON, XML, Protobuf
@@ -40,6 +37,19 @@ UI/UX Design, Apple Human Interface Guidelines, Interface Builder, User Interfac
 
 **Containerization:**
 Docker, Kubernetes
+
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objectivec/objectivec" alt="objective-c"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java" alt="java"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart" alt="dart"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png.png" alt="python.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png" alt="c++"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png" alt="postgres"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ## 📈 GitHub Stats
 
