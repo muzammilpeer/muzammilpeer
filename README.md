@@ -15,13 +15,13 @@
 ### 👨‍💻 Languages
 
 ![Swift](https://img.shields.io/badge/-Swift-F7DF1E?style=flat-plastic&logo=swift&logoColor=white)
-![Objective C](https://img.shields.io/badge/-ObjectiveC-F7DF1E?style=flat-plastic&logo=ObjectiveC&logoColor=white)
+![Objective C](https://img.shields.io/badge/-ObjectiveC-F7DF1E?style=flat-plastic&logo=apple&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-F7DF1E?style=flat-plastic&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat-plastic&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-plastic&logo=java&logoColor=white)
-![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-plastic&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/-Html-A8B9CC?style=flat-plastic&logo=html&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-plastic&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-A8B9CC?style=flat-plastic&logo=html5&logoColor=white)
 
 ### 🧰 Frameworks & Libraries
 
