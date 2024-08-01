@@ -8,7 +8,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muzammilpeer)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzammilpeer)
 [![muzammilpeer.uk](https://img.shields.io/badge/-muzammilpeer.uk-4285F4?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://muzammilpeer.uk)
-[![Other%20socials](https://img.shields.io/badge/-Other%20socials-4285F4?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://links.muzammilpeer.uk)
 
 ## 💻 Things I code with
 
